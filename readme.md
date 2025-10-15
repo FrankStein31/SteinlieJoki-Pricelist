@@ -1,6 +1,6 @@
 <div align="center">
 
-# Steinlie Joki Price List
+# 💼 SteinlieJoki PriceList 📋
 
 </div>
 
@@ -26,29 +26,17 @@
 
 ***`350k s/d 750k`*** - penulisan, mockup, UML (Laporan)
 
-**👉🏻 PROPOSAL TA (Tugas Akhir) 👈🏻**
+**👉🏻 PROPOSAL dan/atau LAPORAN TA (Tugas Akhir) 👈🏻**
 
-***`50k s/d 100k`*** - penulisan per bab (Proposal)
+***`50k s/d 300k`*** - penulisan per bab (Proposal dan/atau Laporan)
 
-***`50k s/d 250k`*** - penulisan per bab, mockup, UML, diagram pendukung lainnya (Proposal)
+***`50k s/d 500k`*** - penulisan per bab, mockup, UML, diagram pendukung lainnya (Proposal dan/atau Laporan)
 
-**👉🏻 LAPORAN TA (Tugas Akhir) 👈🏻**
+**👉🏻 PROPOSAL dan/atau LAPORAN SKRIPSI 👈🏻**
 
-***`50k s/d 200k`*** - penulisan per bab (Laporan)
+***`100k s/d 500k`*** - penulisan per bab (Proposal dan/atau Laporan)
 
-***`50k s/d 350k`*** - penulisan per bab, mockup, UML, diagram pendukung lainnya (Laporan)
-
-**👉🏻 PROPOSAL SKRIPSI 👈🏻**
-
-***`100k s/d 200k`*** - penulisan per bab (Proposal)
-
-***`100k s/d 350k`*** - penulisan per bab, drive rujukan, mockup, UML, diagram pendukung lainnya (Proposal)
-
-**👉🏻 LAPORAN SKRIPSI 👈🏻**
-
-***`100k s/d 300k`*** - penulisan per bab (Laporan)
-
-***`100k s/d 500k`*** - penulisan per bab, drive rujukan, mockup, UML, diagram pendukung lainnya (Laporan)
+***`100k s/d 700k`*** - penulisan per bab, drive rujukan, diagram pendukung lainnya (Proposal dan/atau Laporan)
 
 **👉🏻 BUNDLING SPESIAL LAPORAN SKRIPSI 👈🏻**
 
