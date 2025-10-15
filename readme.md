@@ -66,6 +66,18 @@
 ## ⚠️ DIBAWAH INI MERUPAKAN JASA PEMBUATAN APLIKASI DIPERUNTUKKAN JURUSAN LINGKUP BIDANG TEKNOLOGI INFORMASI DAN SEJENISNYA ⚠️
 
 
+## ✅ PAKET DESIGN UML ✅
+
+👉🏻start from ***`3k s/d 25k`*** per diagram
+
+***`3k s/d 25k`*** - diagram activity, use case, flowchart, dll
+
+***⚠️NB :***
+
+* ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh kerumitan alur serta banyaknya kemiripan antar diagram***
+* ***harga termasuk revisi sebanyak 2x atau 2 poin***
+
+---
 
 ## ✅ PAKET TOUCH-UP UI ✅
 
@@ -84,9 +96,9 @@
 
 ## ✅ PAKET UI/UX Figma/Mockup ✅
 
-👉🏻start from ***`10k s/d 150k`*** per page
+👉🏻start from ***`5k s/d 150k`*** per page
 
-***`10k s/d 150k`*** - UI Website, Mobile
+***`5k s/d 150k`*** - UI Website, Mobile
 
 ***⚠️NB :***
 
