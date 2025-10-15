@@ -1,27 +1,20 @@
 <div align="center">
 
-# STEINLIEJOKI PRICELIST
+# Steinlie Joki Price List
 
-</**👉🏻 BUNDLING SPESIAL LAPORAN SKRIPSI 👈🏻**
-
-***`3.5jt s/d 4jt`*** *- laporan (full) + turnitin + ppt + drive rujukan + unlimited revisi*
-
-***`-+2.5jt`*** *- laporan (full) + turnitin + ppt + drive rujukan + revisi 3x*
-
-***`-+2jt`*** *- laporan (full) + drive rujukan + revisi 2x*
-
+</div>
 
 ## ✅ PAKET PPT ✅
 
 **👉🏻 PKL dan/atau MAGANG 👈🏻**
 
-***`10k s/d 50k`*** *- penulisan materi sidang pkl dan/atau magang*
+***`10k s/d 50k`*** - penulisan materi sidang pkl dan/atau magang
 
 **👉🏻 TA(Tugas Akhir) dan/atau SKRIPSI 👈🏻**
 
-***`15k s/d 50k`*** *- penulisan materi sidang judul*
+***`15k s/d 50k`*** - penulisan materi sidang judul
 
-***`20k s/d 85k`*** *- penulisan materi sidang TA dan/atau Skripsi*
+***`20k s/d 85k`*** - penulisan materi sidang TA dan/atau Skripsi
 
 ---
 
@@ -29,33 +22,33 @@
 
 **👉🏻 PKL dan/atau Magang 👈🏻**
 
-***`200k s/d 500k`*** *- penulisan (Laporan)*
+***`200k s/d 500k`*** - penulisan (Laporan)
 
-***`350k s/d 750k`*** *- penulisan, mockup, UML (Laporan)*
+***`350k s/d 750k`*** - penulisan, mockup, UML (Laporan)
 
 **👉🏻 PROPOSAL TA (Tugas Akhir) 👈🏻**
 
-***`50k s/d 100k`*** *- penulisan per bab (Proposal)*
+***`50k s/d 100k`*** - penulisan per bab (Proposal)
 
-***`50k s/d 250k`*** *- penulisan per bab, mockup, UML, diagram pendukung lainnya (Proposal)*
+***`50k s/d 250k`*** - penulisan per bab, mockup, UML, diagram pendukung lainnya (Proposal)
 
 **👉🏻 LAPORAN TA (Tugas Akhir) 👈🏻**
 
-***`50k s/d 200k`*** *- penulisan per bab (Laporan)*
+***`50k s/d 200k`*** - penulisan per bab (Laporan)
 
-***`50k s/d 350k`*** *- penulisan per bab, mockup, UML, diagram pendukung lainnya (Laporan)*
+***`50k s/d 350k`*** - penulisan per bab, mockup, UML, diagram pendukung lainnya (Laporan)
 
 **👉🏻 PROPOSAL SKRIPSI 👈🏻**
 
-***`100k s/d 200k`*** *- penulisan per bab (Proposal)*
+***`100k s/d 200k`*** - penulisan per bab (Proposal)
 
-***`100k s/d 350k`*** *- penulisan per bab, drive rujukan, mockup, UML, diagram pendukung lainnya (Proposal)*
+***`100k s/d 350k`*** - penulisan per bab, drive rujukan, mockup, UML, diagram pendukung lainnya (Proposal)
 
 **👉🏻 LAPORAN SKRIPSI 👈🏻**
 
-***`100k s/d 300k`*** *- penulisan per bab (Laporan)*
+***`100k s/d 300k`*** - penulisan per bab (Laporan)
 
-***`100k s/d 500k`*** *- penulisan per bab, drive rujukan, mockup, UML, diagram pendukung lainnya (Laporan)*
+***`100k s/d 500k`*** - penulisan per bab, drive rujukan, mockup, UML, diagram pendukung lainnya (Laporan)
 
 **👉🏻 BUNDLING SPESIAL LAPORAN SKRIPSI 👈🏻**
 
@@ -67,11 +60,11 @@
 
 **👉🏻 ARTIKEL 👈🏻**
 
-***`75k s/d 250k`*** *- penulisan*
+***`75k s/d 250k`*** - penulisan
 
 **👉🏻 FORMATING TEMPLATE 👈🏻**
 
-***`75k s/d 250k`*** *- halaman, daftar isi, daftar gambar, daftar tabel*
+***`75k s/d 250k`*** - halaman, daftar isi, daftar gambar, daftar tabel
 
 ***⚠️NB :***
 
@@ -90,9 +83,9 @@
 
 👉🏻start from ***`10k s/d 150k`*** per page
 
-***`10k s/d 100k`*** *- UI Website, Desktop*
+***`10k s/d 100k`*** - UI Website, Desktop
 
-***`15k s/d 150k`*** *- UI Android*
+***`15k s/d 150k`*** - UI Android
 
 ***⚠️NB :***
 
@@ -105,7 +98,7 @@
 
 👉🏻start from ***`10k s/d 150k`*** per page
 
-***`10k s/d 150k`*** *- UI Website, Mobile*
+***`10k s/d 150k`*** - UI Website, Mobile
 
 ***⚠️NB :***
 
@@ -118,9 +111,9 @@
 
 👉🏻start from ***`25k s/d 600k`*** per fitur
 
-***`25k s/d 600k`*** *- Desktop, Website (Laravel, CI, Native)*
+***`25k s/d 600k`*** - Desktop, Website (Laravel, CI, Native)
 
-***`30k s/d 600k`*** *- Android*
+***`30k s/d 600k`*** - Android
 
 ***⚠️NB :***
 
@@ -133,9 +126,9 @@
 
 👉🏻start from ***`25k s/d 600k`*** per fitur :
 
-***`25k s/d 500k`*** *- fitur website*
+***`25k s/d 500k`*** - fitur website
 
-***`25k s/d 600k`*** *- fitur android*
+***`25k s/d 600k`*** - fitur android
 
 ***⚠️NB :***
 
@@ -148,9 +141,9 @@
 
 👉🏻start from ***`100k s/d 1jt`***
 
-***`100k s/d 1jt`*** *- website (laravel, CI, native)*
+***`100k s/d 1jt`*** - website (laravel, CI, native)
 
-***`100k s/d 1jt`*** *- android (kotlin, flutter)*
+***`100k s/d 1jt`*** - android (kotlin, flutter)
 
 ***⚠️NB :***
 
@@ -165,9 +158,9 @@
 
 👉🏻start from ***`800k s/d 5jt++`***
 
-***`800k s/d 5jt`*** *- website (laravel, CI, native)*
+***`800k s/d 5jt`*** - website (laravel, CI, native)
 
-***`1jt s/d 5jt`*** *- android (kotlin, flutter)*
+***`1jt s/d 5jt`*** - android (kotlin, flutter)
 
 ***⚠️NB :***
 
@@ -185,9 +178,9 @@
 
 👉🏻start from ***`1jt s/d 7jt++`***
 
-***`1jt s/d 7jt`*** *- website (aplikasi kantor, profile company, kasir, rekapitulasi, dll)*
+***`1jt s/d 7jt`*** - website (aplikasi kantor, profile company, kasir, rekapitulasi, dll)
 
-***`1.5jt s/d 7jt`*** *- android (aplikasi absensi, pendaftaran lowongan kerja internal, dll)*
+***`1.5jt s/d 7jt`*** - android (aplikasi absensi, pendaftaran lowongan kerja internal, dll)
 
 ***⚠️NB :***
 
