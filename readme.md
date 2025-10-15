@@ -39,12 +39,9 @@
 ***`100k s/d 700k`*** - penulisan per bab, drive rujukan, diagram pendukung lainnya (Proposal dan/atau Laporan)
 
 **👉🏻 BUNDLING SPESIAL LAPORAN SKRIPSI 👈🏻**
-
-| Paket | Harga | Include |
-|-------|-------|---------|
-| **Plus** | ***`3.5jt s/d 4jt`*** | Laporan (full) + Turnitin + PPT + Drive Rujukan + **Unlimited Revisi** |
-| **Most Order** | ***`2.5jt`*** | Laporan (full) + Turnitin + PPT + Drive Rujukan + Revisi 3x |
-| **Standard** | ***`2jt`*** | Laporan (full) + Drive Rujukan + Revisi 2x |
+| ***`3.5jt s/d 4jt`*** | Laporan (full) + Turnitin + PPT + Drive Rujukan + **Unlimited Revisi** |
+| ***`2.5jt`*** | Laporan (full) + Turnitin + PPT + Drive Rujukan + Revisi 3x |
+| ***`2jt`*** | Laporan (full) + Drive Rujukan + Revisi 2x |
 
 **👉🏻 ARTIKEL 👈🏻**
 
