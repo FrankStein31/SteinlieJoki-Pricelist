@@ -221,11 +221,11 @@
 
 ### ⚠️ NB : Harga bisa dinego sampai pas, win win solution 🫱🏻‍🫲🏼
 
+---
 
+🎯 ***Solusimu ada disini! Buat apa bingung?*** 🎯
 
-***Solusimu ada disini! Buat apa bingung?***
+---
 
-
-
-insta : https://www.instagram.com/steinliejoki
+📱 insta : https://www.instagram.com/steinliejoki
 
