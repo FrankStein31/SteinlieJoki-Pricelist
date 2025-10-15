@@ -77,7 +77,7 @@
 
 ***⚠️NB :***
 
-* ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh permintaan animasi dan banyaknya page yang ingin di touch-up***
+* ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh permintaan animasi dan banyaknya page yang ingin di touch-up***
 * ***harga termasuk revisi sebanyak 2x atau 2 poin***
 
 ---
@@ -90,7 +90,7 @@
 
 ***⚠️NB :***
 
-* ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh permintaan animasi, komplexitas dan banyaknya page yang ingin di design***
+* ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh permintaan animasi, komplexitas dan banyaknya page yang ingin di design***
 * ***harga termasuk revisi sebanyak 2x atau 2 poin***
 
 ---
@@ -105,7 +105,7 @@
 
 ***⚠️NB :***
 
-* ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh kerumitan fitur***
+* ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh kerumitan fitur***
 * ***harga termasuk revisi sebanyak 2x atau 2 poin***
 
 ---
@@ -120,7 +120,7 @@
 
 ***⚠️NB :***
 
-* ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh kerumitan fitur***
+* ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh kerumitan fitur***
 * ***harga termasuk revisi sebanyak 2x atau 2 poin***
 
 ---
@@ -135,7 +135,7 @@
 
 ***⚠️NB :***
 
-* ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh kerumitan fitur***
+* ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh kerumitan fitur***
 * ***harga integrasi website + android menyesuaikan kerumitan***
 * ***harga tidak termasuk laporan***
 * ***harga termasuk revisi sebanyak 5x atau 5 poin***
@@ -152,7 +152,7 @@
 
 ***⚠️NB :***
 
-* ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh kerumitan fitur***
+* ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh kerumitan fitur***
 * ***harga integrasi website + android menyesuaikan kerumitan***
 * ***harga tidak termasuk laporan***
 * ***harga untuk Tugas Akhir dan Skripsi berbeda***
@@ -172,7 +172,7 @@
 
 ***⚠️NB :***
 
-* ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh kerumitan fitur***
+* ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh kerumitan fitur***
 * ***harga integrasi website + android menyesuaikan kerumitan***
 * ***harga termasuk SEO, keamanan system dari injeksi, penggunaan jangka panjang, maintainability serta jasa deploy ke dns public***
 * ***harga tidak termasuk biaya langganan hosting (terbuka untuk didiskusikan lebih lanjut)***
