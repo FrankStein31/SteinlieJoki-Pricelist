@@ -43,8 +43,8 @@
 | Paket | Harga | Include |
 |-------|-------|---------|
 | **Plus** | ***`3.5jt s/d 5jt`*** | Laporan (full) + Turnitin + PPT + Drive Rujukan + **Unlimited Revisi** |
-| **Most Order** | ***`-+3jt`*** | Laporan (full) + Turnitin + PPT + Drive Rujukan + Revisi 2x atau 2 poin |
-| **Standard** | ***`-+2.5jt`*** | Laporan (full) + Drive Rujukan |
+| **Most Order** | ***`-+3jt`*** | Laporan (full) + Turnitin + PPT + Drive Rujukan + Revisi 5x atau 5 poin |
+| **Standard** | ***`-+2.5jt`*** | Laporan (full) + Drive Rujukan + Revisi 3x atau 3 poin |
 
 **👉🏻 ARTIKEL 👈🏻**
 
