@@ -1,8 +1,8 @@
-##### **STEINLIEJOKI PRICELIST**
+# STEINLIEJOKI PRICELIST
 
 
 
-###### **✅ PAKET PPT ✅**
+## ✅ PAKET PPT ✅
 
 **👉🏻 PKL dan/atau MAGANG 👈🏻**
 
@@ -16,7 +16,7 @@
 
 
 
-###### **✅ PAKET PROPOSAL DAN ATAU LAPORAN DAN ATAU ARTIKEL ✅**
+## ✅ PAKET PROPOSAL DAN ATAU LAPORAN DAN ATAU ARTIKEL ✅
 
 **👉🏻 PKL dan/atau Magang 👈🏻**
 
@@ -75,11 +75,11 @@
 
 
 
-###### **⚠️ DIBAWAH INI MERUPAKAN JASA PEMBUATAN APLIKASI DIPERUNTUKKAN JURUSAN LINGKUP BIDANG TEKNOLOGI INFORMASI DAN SEJENISNYA ⚠️**
+## ⚠️ DIBAWAH INI MERUPAKAN JASA PEMBUATAN APLIKASI DIPERUNTUKKAN JURUSAN LINGKUP BIDANG TEKNOLOGI INFORMASI DAN SEJENISNYA ⚠️
 
 
 
-###### **✅ PAKET TOUCH-UP UI ✅**
+## ✅ PAKET TOUCH-UP UI ✅
 
 👉🏻start from 10k s/d 150k per page
 
@@ -94,7 +94,7 @@
 
 
 
-###### **✅ PAKET UI/UX Figma/Mockup ✅**
+## ✅ PAKET UI/UX Figma/Mockup ✅
 
 👉🏻start from 10k s/d 150k per page
 
@@ -107,7 +107,7 @@
 
 
 
-###### **✅ PAKET FIX ERROR ✅**
+## ✅ PAKET FIX ERROR ✅
 
 👉🏻start from 25k s/d 600k per fitur
 
@@ -122,7 +122,7 @@
 
 
 
-###### **✅ PAKET FITUR PROJECT ✅**
+## ✅ PAKET FITUR PROJECT ✅
 
 👉🏻start from 25k s/d 600k per fitur :
 
@@ -137,7 +137,7 @@
 
 
 
-###### **✅ PAKET FULL PROJECT TUGAS / UTS / UAS ✅**
+## ✅ PAKET FULL PROJECT TUGAS / UTS / UAS ✅
 
 👉🏻start from 100k s/d 1jt
 
@@ -154,7 +154,7 @@
 
 
 
-###### **✅ PAKET FULL PROJECT MAGANG / TUGAS AKHIR / SKRIPSI ✅**
+## ✅ PAKET FULL PROJECT MAGANG / TUGAS AKHIR / SKRIPSI ✅
 
 👉🏻start from 800k s/d 5jt++
 
@@ -172,7 +172,7 @@
 
 
 
-###### **✅ PAKET PROJECT EXTERNAL ✅**
+## ✅ PAKET PROJECT EXTERNAL ✅
 
 👉🏻start from 1jt s/d 7jt++
 
@@ -190,11 +190,11 @@
 
 
 
-###### **⚠️ PERLU DIPERHATIKAN ⚠️**
+## ⚠️ PERLU DIPERHATIKAN ⚠️
 
 
 
-###### **👉🏻 HAL YANG MENJADI PERTIMBANGAN HARGA 👈🏻**
+### 👉🏻 HAL YANG MENJADI PERTIMBANGAN HARGA 👈🏻
 
 1. kerumitan fitur (Khusus jurusan Teknologi Informasi)
 2. database yang digunakan (Khusus jurusan Teknologi Informasi)
@@ -208,7 +208,7 @@
 
 
 
-###### **👉🏻 LAINNYA 👈🏻**
+### 👉🏻 LAINNYA 👈🏻
 
 1. Menyediakan konsultasi bagi yang tidak mau joki (konsultasi gratis)
 2. Menerima joki tugas project dan laporan yang pastinya Harga pas di kantong
@@ -217,7 +217,7 @@
 
 
 
-###### **⚠️ NB : Harga bisa dinego sampai pas, win win solution 🫱🏻‍🫲🏼**
+### ⚠️ NB : Harga bisa dinego sampai pas, win win solution 🫱🏻‍🫲🏼
 
 
 
