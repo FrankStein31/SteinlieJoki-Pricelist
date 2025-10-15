@@ -14,7 +14,7 @@
 
 *20k s/d 85k - penulisan materi sidang TA dan/atau Skripsi*
 
-
+---
 
 ## ✅ PAKET PROPOSAL DAN ATAU LAPORAN DAN ATAU ARTIKEL ✅
 
@@ -71,9 +71,7 @@
 * ***untuk setiap paket diatas sudah include free revisi 3x (terkecuali bundling), jika revisi melebihi, maka akan dikenakan biaya tambahan sesuai dengan bobot revisi***
 * ***untuk setiap paket diatas tidak termasuk tes turnitin (terkecuali bundling), tapi penulis sudah memperhatikannya, apabila ingin menambah turnitin, maka akan dikenakan biaya tambahan (terkecuali bundling)***
 
-
-
-
+---
 
 ## ⚠️ DIBAWAH INI MERUPAKAN JASA PEMBUATAN APLIKASI DIPERUNTUKKAN JURUSAN LINGKUP BIDANG TEKNOLOGI INFORMASI DAN SEJENISNYA ⚠️
 
@@ -92,7 +90,7 @@
 * ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh permintaan animasi dan banyaknya page yang ingin di touch-up***
 * ***harga termasuk revisi sebanyak 2x***
 
-
+---
 
 ## ✅ PAKET UI/UX Figma/Mockup ✅
 
@@ -105,7 +103,7 @@
 * ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh permintaan animasi, komplexitas dan banyaknya page yang ingin di design***
 * ***harga termasuk revisi sebanyak 2x***
 
-
+---
 
 ## ✅ PAKET FIX ERROR ✅
 
@@ -120,7 +118,7 @@
 * ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh kerumitan fitur***
 * ***harga termasuk revisi sebanyak 2x***
 
-
+---
 
 ## ✅ PAKET FITUR PROJECT ✅
 
@@ -135,7 +133,7 @@
 * ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh kerumitan fitur***
 * ***harga termasuk revisi sebanyak 2x***
 
-
+---
 
 ## ✅ PAKET FULL PROJECT TUGAS / UTS / UAS ✅
 
@@ -152,7 +150,7 @@
 * ***harga tidak termasuk laporan***
 * ***harga termasuk revisi sebanyak 5x***
 
-
+---
 
 ## ✅ PAKET FULL PROJECT MAGANG / TUGAS AKHIR / SKRIPSI ✅
 
@@ -170,7 +168,7 @@
 * ***harga untuk Tugas Akhir dan Skripsi berbeda***
 * ***harga termasuk revisi sebanyak 5x***
 
-
+---
 
 ## ✅ PAKET PROJECT EXTERNAL ✅
 
@@ -188,7 +186,7 @@
 * ***harga tidak termasuk biaya langganan hosting (terbuka untuk didiskusikan lebih lanjut)***
 * ***harga termasuk jasa konsultasi serta bimbingan sampai aplikasi siap pakai dan publikasi***
 
-
+---
 
 ## ⚠️ PERLU DIPERHATIKAN ⚠️
 
@@ -206,7 +204,7 @@
 8. Jenis penelitian yang diambil (Kualitatif atau kuantitatif
 9. Kelengkapan bahan penelitian (jurnal pendukung, referensi, data, dll)
 
-
+---
 
 ### 👉🏻 LAINNYA 👈🏻
 
@@ -215,7 +213,7 @@
 3. Owner bisa saja berbaik hati memberi bonus yang ga terduga (beberapa orang sudah mengalaminya, kamu kapan?)
 4. Menerima kebutuhan projectmu bukan hanya lingkup kampus, namun umum
 
-
+---
 
 ### ⚠️ NB : Harga bisa dinego sampai pas, win win solution 🫱🏻‍🫲🏼
 
