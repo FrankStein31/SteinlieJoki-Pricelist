@@ -42,9 +42,9 @@
 
 | Paket | Harga | Include |
 |-------|-------|---------|
-| **Plus** | ***`3.5jt s/d 4jt`*** | Laporan (full) + Turnitin + PPT + Drive Rujukan + **Unlimited Revisi** |
-| **Most Order** | ***`2.5jt`*** | Laporan (full) + Turnitin + PPT + Drive Rujukan + Revisi 3x |
-| **Standard** | ***`2jt`*** | Laporan (full) + Drive Rujukan + Revisi 2x |
+| **Plus** | ***`3.5jt s/d 5jt`*** | Laporan (full) + Turnitin + PPT + Drive Rujukan + **Unlimited Revisi** |
+| **Most Order** | ***`-+3jt`*** | Laporan (full) + Turnitin + PPT + Drive Rujukan + Revisi 2x atau 2 poin |
+| **Standard** | ***`-+2.5jt`*** | Laporan (full) + Drive Rujukan |
 
 **👉🏻 ARTIKEL 👈🏻**
 
@@ -78,7 +78,7 @@
 ***⚠️NB :***
 
 * ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh permintaan animasi dan banyaknya page yang ingin di touch-up***
-* ***harga termasuk revisi sebanyak 2x***
+* ***harga termasuk revisi sebanyak 2x atau 2 poin***
 
 ---
 
@@ -91,7 +91,7 @@
 ***⚠️NB :***
 
 * ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh permintaan animasi, komplexitas dan banyaknya page yang ingin di design***
-* ***harga termasuk revisi sebanyak 2x***
+* ***harga termasuk revisi sebanyak 2x atau 2 poin***
 
 ---
 
@@ -106,7 +106,7 @@
 ***⚠️NB :***
 
 * ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh kerumitan fitur***
-* ***harga termasuk revisi sebanyak 2x***
+* ***harga termasuk revisi sebanyak 2x atau 2 poin***
 
 ---
 
@@ -121,7 +121,7 @@
 ***⚠️NB :***
 
 * ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh kerumitan fitur***
-* ***harga termasuk revisi sebanyak 2x***
+* ***harga termasuk revisi sebanyak 2x atau 2 poin***
 
 ---
 
@@ -138,7 +138,7 @@
 * ***harga bisa sewaktu-waktu naik maupun turun dari range yang ditentukan, dipengaruhi oleh kerumitan fitur***
 * ***harga integrasi website + android menyesuaikan kerumitan***
 * ***harga tidak termasuk laporan***
-* ***harga termasuk revisi sebanyak 5x***
+* ***harga termasuk revisi sebanyak 5x atau 5 poin***
 
 ---
 
@@ -156,7 +156,7 @@
 * ***harga integrasi website + android menyesuaikan kerumitan***
 * ***harga tidak termasuk laporan***
 * ***harga untuk Tugas Akhir dan Skripsi berbeda***
-* ***harga termasuk revisi sebanyak 5x***
+* ***harga termasuk revisi sebanyak 5x atau 5 poin***
 
 ---
 
