@@ -58,7 +58,7 @@
 
 * ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh banyaknya halaman, kerumitan, jenis penelitian serta kuantitas UML, mockup serta diagram pendukung lainnya***
 * ***formatting template merupakan penambahan halaman, toc (daftar isi, gambar dan tabel) serta merapikan margin sesuai buku panduan***
-* ***untuk setiap paket diatas sudah include free revisi 3x atau 3 poin (terkecuali bundling), jika revisi melebihi, maka akan dikenakan biaya tambahan sesuai dengan bobot revisi***
+* ***untuk setiap paket diatas sudah include free revisi 2x atau 2 poin (terkecuali bundling), jika revisi melebihi, maka akan dikenakan biaya tambahan sesuai dengan bobot revisi***
 * ***untuk setiap paket diatas tidak termasuk tes turnitin (terkecuali bundling), tapi penulis sudah memperhatikannya, apabila ingin menambah turnitin, maka akan dikenakan biaya tambahan (terkecuali bundling)***
 
 ---
