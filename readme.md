@@ -52,11 +52,11 @@
 
 **👉🏻 BUNDLING SPESIAL LAPORAN SKRIPSI 👈🏻**
 
-*3.5jt s/d 4jt - laporan (full) + turnitin + ppt + drive rujukan + unlimited revisi*
+***`3.5jt s/d 4jt`*** - laporan (full) + turnitin + ppt + drive rujukan + unlimited revisi
 
-*-+2.5jt - laporan (full) + turnitin + ppt + drive rujukan + revisi 3x*
+***`2.5jt`*** - laporan (full) + turnitin + ppt + drive rujukan + revisi 3x
 
-*-+2jt - laporan (full) + drive rujukan + revisi 2x*
+***`2jt`*** - laporan (full) + drive rujukan + revisi 2x
 
 **👉🏻 ARTIKEL 👈🏻**
 
