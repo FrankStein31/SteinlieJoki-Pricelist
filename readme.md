@@ -75,7 +75,7 @@
 ***⚠️NB :***
 
 * ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh kerumitan alur serta banyaknya kemiripan antar diagram***
-* ***harga termasuk revisi sebanyak 2x atau 2 poin***
+* ***harga termasuk revisi sebanyak 2x atau 2 poin, jika revisi melebihi, maka akan dikenakan biaya tambahan sesuai dengan bobot revisi***
 
 ---
 
@@ -90,7 +90,7 @@
 ***⚠️NB :***
 
 * ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh permintaan animasi dan banyaknya page yang ingin di touch-up***
-* ***harga termasuk revisi sebanyak 2x atau 2 poin***
+* ***harga termasuk revisi sebanyak 2x atau 2 poin, jika revisi melebihi, maka akan dikenakan biaya tambahan sesuai dengan bobot revisi***
 
 ---
 
@@ -103,7 +103,7 @@
 ***⚠️NB :***
 
 * ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh permintaan animasi, komplexitas dan banyaknya page yang ingin di design***
-* ***harga termasuk revisi sebanyak 2x atau 2 poin***
+* ***harga termasuk revisi sebanyak 2x atau 2 poin, jika revisi melebihi, maka akan dikenakan biaya tambahan sesuai dengan bobot revisi***
 
 ---
 
@@ -118,7 +118,7 @@
 ***⚠️NB :***
 
 * ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh kerumitan fitur***
-* ***harga termasuk revisi sebanyak 2x atau 2 poin***
+* ***harga termasuk revisi sebanyak 2x atau 2 poin, jika revisi melebihi, maka akan dikenakan biaya tambahan sesuai dengan bobot revisi***
 
 ---
 
@@ -133,7 +133,7 @@
 ***⚠️NB :***
 
 * ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh kerumitan fitur***
-* ***harga termasuk revisi sebanyak 2x atau 2 poin***
+* ***harga termasuk revisi sebanyak 2x atau 2 poin, jika revisi melebihi, maka akan dikenakan biaya tambahan sesuai dengan bobot revisi***
 
 ---
 
@@ -150,7 +150,7 @@
 * ***HARGA BISA SEWAKTU WAKTU NAIK MAUPUN TURUN DARI RANGE YANG DITENTUKAN, dipengaruhi oleh kerumitan fitur***
 * ***harga integrasi website + android menyesuaikan kerumitan***
 * ***harga tidak termasuk laporan***
-* ***harga termasuk revisi sebanyak 5x atau 5 poin***
+* ***harga termasuk revisi sebanyak 3x atau 3 poin, jika revisi melebihi, maka akan dikenakan biaya tambahan sesuai dengan bobot revisi***
 
 ---
 
@@ -168,7 +168,7 @@
 * ***harga integrasi website + android menyesuaikan kerumitan***
 * ***harga tidak termasuk laporan***
 * ***harga untuk Tugas Akhir dan Skripsi berbeda***
-* ***harga termasuk revisi sebanyak 5x atau 5 poin***
+* ***harga termasuk revisi sebanyak 5x atau 5 poin, jika revisi melebihi, maka akan dikenakan biaya tambahan sesuai dengan bobot revisi***
 
 ---
 
