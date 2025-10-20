@@ -223,9 +223,21 @@
 
 ---
 
-🎯 ***Solusimu ada disini! Buat apa bingung?*** 🎯
+<div align="center">
+
+## 🎯 **SOLUSI TERBAIK UNTUK KEBUTUHAN AKADEMIKMU!** 🎯
+
+### ✨ ***Kenapa masih bingung? Solusi terdepan ada di sini!*** ✨
+
+🚀 **FAST RESPONSE** • 💯 **QUALITY GUARANTEED** • 🔥 **HARGA TERJANGKAU**
+
+### 🏆 ***SteinlieJoki - Your Success Partner!*** 🏆
+
+**💬 Siap melayani 24/7 untuk kesuksesanmu!**
+
+</div>
 
 ---
 
-📱 insta : https://www.instagram.com/steinliejoki
+📱 **Contact Us:** https://www.instagram.com/steinliejoki
 
